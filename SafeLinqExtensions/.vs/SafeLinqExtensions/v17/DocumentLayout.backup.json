@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|c:\\users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\safelinqextensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|c:\\users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\safelinqextensions\\extensions.foreachsafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|solutionrelative:extensions.foreachsafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|c:\\users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\safelinqextensions\\extensions.selectsafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|solutionrelative:extensions.selectsafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|c:\\users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\safelinqextensions\\extensions.toarrayasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|solutionrelative:extensions.toarrayasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|c:\\users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\safelinqextensions\\extensions.todictionarysafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417402C4-384C-4639-9160-64201C040FC5}|SafeLinqExtensions.csproj|solutionrelative:extensions.todictionarysafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.ToArrayAsync.cs",
+              "DocumentMoniker": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ToArrayAsync.cs",
+              "RelativeDocumentMoniker": "Extensions.ToArrayAsync.cs",
+              "ToolTip": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ToArrayAsync.cs",
+              "RelativeToolTip": "Extensions.ToArrayAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:40:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.ForeachSafe.cs",
+              "DocumentMoniker": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ForeachSafe.cs",
+              "RelativeDocumentMoniker": "Extensions.ForeachSafe.cs",
+              "ToolTip": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ForeachSafe.cs",
+              "RelativeToolTip": "Extensions.ForeachSafe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:39:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.SelectSafe.cs",
+              "DocumentMoniker": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.SelectSafe.cs",
+              "RelativeDocumentMoniker": "Extensions.SelectSafe.cs",
+              "ToolTip": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.SelectSafe.cs",
+              "RelativeToolTip": "Extensions.SelectSafe.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:38:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.ToDictionarySafe.cs",
+              "DocumentMoniker": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ToDictionarySafe.cs",
+              "RelativeDocumentMoniker": "Extensions.ToDictionarySafe.cs",
+              "ToolTip": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Extensions.ToDictionarySafe.cs",
+              "RelativeToolTip": "Extensions.ToDictionarySafe.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:35:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\askoutaris\\source\\askoutaris\\safe-linq-extensions\\SafeLinqExtensions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:35:10.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
